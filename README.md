@@ -30,3 +30,6 @@ python3 -m unittest triangle.py
 ## Ожидаемый результат
 Ran 8 tests in ...
 OK
+# История изменения проекта
+## d1a6bc0 - Создана библиотека
+## 97cbd3e - Добавлены Unit-тесты
